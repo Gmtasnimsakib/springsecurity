@@ -1,4 +1,4 @@
-package org.example.rokomari.entity;
+package org.example.springsecurity.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
